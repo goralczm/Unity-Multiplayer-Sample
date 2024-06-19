@@ -8,7 +8,7 @@ namespace MultiplayerSample
     {
         public override bool Initialize(string defaultWorldName)
         {
-            AutoConnectPort = 7979;
+            //AutoConnectPort = 7979;
             return base.Initialize(defaultWorldName);
         }
     }
