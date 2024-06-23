@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/RelaySetup.unity
-    guid: 66463980884bb5949802eb7c3a469176
+    path: Assets/_Scripts/01_BootstrapAndFrontend/Frontend.unity
+    guid: 78517606c5abc4802a5a988a3f3fc2bf
+  - enabled: 1
+    path: Assets/_Scripts/01_BootstrapAndFrontend/FrontendBootstrap.unity
+    guid: 884196346934e4eb98a3270b445d23e1
+  - enabled: 1
+    path: Assets/_Scripts/01_BootstrapAndFrontend/FrontendHUD.unity
+    guid: 06ff0d515097f4e60973d2ca8d13eb39
+  - enabled: 1
+    path: Assets/_Scripts/01b_RelaySupport/RelayHUD.unity
+    guid: 60023a2fd62a85145816926d3e8f4067
+  - enabled: 1
+    path: Assets/Scenes/EmptyScene.unity
+    guid: 022a4ff6eb33dad49bec427871f17b9c
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
